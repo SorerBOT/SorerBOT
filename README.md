@@ -5,9 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SorerBOT&repo=badwordsfilter&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
