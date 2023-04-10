@@ -8,3 +8,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SorerBOT&repo=Finviz-Scraper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SorerBOT&repo=Sorer-net&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
