@@ -12,4 +12,4 @@
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&exclude_repo=github-readme-stats&theme=radical&hide=jupyter%20notebook,shell,tex)
+![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&exclude_repo=github-readme-stats&theme=radical&hide=jupyter%20notebook,shell,tex,java,c%2B%2B,lua,cmake,perl)
