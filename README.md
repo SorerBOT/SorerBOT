@@ -9,6 +9,10 @@
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Discord-Harder-Drive&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Finviz-Scraper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshot-Upload-Script&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&exclude_repo=github-readme-stats&theme=radical&hide=jupyter%20notebook,shell,tex,java,cmake,perl,lua&stats_format=lines)
