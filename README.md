@@ -3,14 +3,14 @@
 [![Top Langs](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Projects
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=guild-bridge&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=badwordsfilter&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Discord-Harder-Drive&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Finviz-Scraper&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshot-Upload-Script&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=guild-bridge&theme=radical)](https://github.com/SorerBOT/Guild-Bridge)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=badwordsfilter&theme=radical)](https://github.com/SorerBOT/badwordsfilter)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical)](https://github.com/SorerBOT/nn.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Discord-Harder-Drive&theme=radical)](https://github.com/SorerBOT/Discord-Harder-Drive)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Finviz-Scraper&theme=radical)](https://github.com/SorerBOT/Finviz-Scraper)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/SorerBOT/RapidYouTube)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical)](https://github.com/Sorer-net/Screenshots-Worker)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshot-Upload-Script&theme=radical)](https://github.com/Sorer-net/Screenshot-Upload-Script)
 
 
 
