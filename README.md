@@ -15,4 +15,4 @@
 
 
 ### Top Languages
-![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&exclude_repo=github-readme-stats&theme=radical&hide=jupyter%20notebook,shell,tex,java,cmake,perl,lua&stats_format=lines)
+![Top Languages](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&exclude_repo=github-readme-stats&theme=radical&hide=jupyter%20notebook,shell,tex,java,cmake,perl,lua&stats_format=lines&v=12)
