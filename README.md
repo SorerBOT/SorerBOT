@@ -3,8 +3,8 @@
 [![Top Langs](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Projects
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical)](https://github.com/SorerBOT/nn.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Garbage-Collectyour&theme=radical)](https://github.com/SorerBOT/Garbage-Collectyour)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical&v=5)](https://github.com/SorerBOT/nn.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Garbage-Collectyour&theme=radical&v=6)](https://github.com/SorerBOT/Garbage-Collectyour)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=cunit.h&theme=radical)](https://github.com/SorerBOT/cunit.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical)](https://github.com/Sorer-net/Screenshots-Worker)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Watering-Problem&theme=radical)](https://github.com/SorerBOT/Watering-Problem)
