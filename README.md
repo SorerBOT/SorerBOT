@@ -1,4 +1,4 @@
-[![SorerBOT's GitHub stats](https://github-readme-stats-sh1g.vercel.app/api?username=SorerBOT&show_icons=true&theme=radical&count_private=true&custom_title=SorerBOT's%20Activity&count_private=true&include_all_commits=true&v=63)](https://github.com/SorerBOT)
+[![SorerBOT's GitHub stats](https://github-readme-stats-sh1g.vercel.app/api?username=SorerBOT&show_icons=true&theme=radical&count_private=true&custom_title=SorerBOT's%20Activity&count_private=true&include_all_commits=true&v=64)](https://github.com/SorerBOT)
 [![GitHub Streak](https://github-readme-streak-stats-coral-eta.vercel.app/?user=SorerBOT&theme=radical&card_width=300&hide_total_contributions=true&hide_longest_streak=true)](https://github.com/SorerBOT)
 <!---
 [![Top Langs](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=gcy.h&theme=radical&v=6)](https://github.com/SorerBOT/gcy.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=cunit.h&theme=radical&v=9)](https://github.com/SorerBOT/cunit.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=hash.h&theme=radical&v=9)](https://github.com/SorerBOT/hash.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=ysp.h&theme=radical&v=10)](https://github.com/SorerBOT/ysp.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=ysp.h&theme=radical&v=11)](https://github.com/SorerBOT/ysp.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Watering-Problem&theme=radical&v=7)](https://github.com/SorerBOT/Watering-Problem)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Discord-Harder-Drive&theme=radical&v=5)](https://github.com/SorerBOT/Discord-Harder-Drive)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical&v=7)](https://github.com/Sorer-net/Screenshots-Worker)
