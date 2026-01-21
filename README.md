@@ -5,7 +5,7 @@
 -->
 ### Projects
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical&v=5)](https://github.com/SorerBOT/nn.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=gcy.h&theme=radical&v=6)](https://github.com/SorerBOT/gcy.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=gcy.h&theme=radical&v=7)](https://github.com/SorerBOT/gcy.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=cunit.h&theme=radical&v=9)](https://github.com/SorerBOT/cunit.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=hash.h&theme=radical&v=9)](https://github.com/SorerBOT/hash.h)
 [![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=ysp.h&theme=radical&v=11)](https://github.com/SorerBOT/ysp.h)
