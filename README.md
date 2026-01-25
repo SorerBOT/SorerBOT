@@ -3,19 +3,24 @@
 <!---
 [![Top Langs](https://github-readme-stats-sh1g.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### Projects
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical&v=5)](https://github.com/SorerBOT/nn.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=gcy.h&theme=radical&v=7)](https://github.com/SorerBOT/gcy.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=cunit.h&theme=radical&v=9)](https://github.com/SorerBOT/cunit.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=hash.h&theme=radical&v=9)](https://github.com/SorerBOT/hash.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=ysp.h&theme=radical&v=11)](https://github.com/SorerBOT/ysp.h)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Watering-Problem&theme=radical&v=7)](https://github.com/SorerBOT/Watering-Problem)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Discord-Harder-Drive&theme=radical&v=5)](https://github.com/SorerBOT/Discord-Harder-Drive)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical&v=7)](https://github.com/Sorer-net/Screenshots-Worker)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=guild-bridge&theme=radical)](https://github.com/SorerBOT/Guild-Bridge)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=badwordsfilter&theme=radical)](https://github.com/SorerBOT/badwordsfilter)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Finviz-Scraper&theme=radical)](https://github.com/SorerBOT/Finviz-Scraper)
-[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical)](https://github.com/SorerBOT/RapidYouTube)
+### Systems & Developer Tools
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=bootloader&theme=radical&description_lines_count=3&v=5)](https://github.com/SorerBOT/bootloader)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=ysp.h&theme=radical&description_lines_count=3&v=11)](https://github.com/SorerBOT/ysp.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=gcy.h&theme=radical&description_lines_count=3&v=7)](https://github.com/SorerBOT/gcy.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=cunit.h&theme=radical&description_lines_count=3&v=9)](https://github.com/SorerBOT/cunit.h)
+
+### Algorithms & Data Structures
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=nn.h&theme=radical&description_lines_count=3&v=5)](https://github.com/SorerBOT/nn.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=hash.h&theme=radical&description_lines_count=3&v=9)](https://github.com/SorerBOT/hash.h)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Watering-Problem&theme=radical&description_lines_count=3&v=7)](https://github.com/SorerBOT/Watering-Problem)
+
+### Applications
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Discord-Harder-Drive&theme=radical&description_lines_count=3&v=5)](https://github.com/SorerBOT/Discord-Harder-Drive)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=Sorer-net&repo=Screenshots-Worker&theme=radical&description_lines_count=3&v=7)](https://github.com/Sorer-net/Screenshots-Worker)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=guild-bridge&theme=radical&description_lines_count=3)](https://github.com/SorerBOT/Guild-Bridge)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=badwordsfilter&theme=radical&description_lines_count=3)](https://github.com/SorerBOT/badwordsfilter)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=Finviz-Scraper&theme=radical&description_lines_count=3)](https://github.com/SorerBOT/Finviz-Scraper)
+[![Readme Card](https://github-readme-stats-sh1g.vercel.app/api/pin/?username=SorerBOT&repo=RapidYouTube&theme=radical&description_lines_count=3)](https://github.com/SorerBOT/RapidYouTube)
 
 
 ### Top Languages
