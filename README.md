@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats-topaz-nu-88.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Systems & Developer Tools
-[![Readme Card](https://github-readme-stats-topaz-nu-88.vercel.app/api/pin/?username=SorerBOT&repo=bootloader&theme=radical&description_lines_count=3&v=5)](https://github.com/SorerBOT/bootloader)
+[![Readme Card](https://github-readme-stats-topaz-nu-88.vercel.app/api/pin/?username=SorerBOT&repo=bootloader&theme=radical&description_lines_count=3&v=6)](https://github.com/SorerBOT/bootloader)
 [![Readme Card](https://github-readme-stats-topaz-nu-88.vercel.app/api/pin/?username=SorerBOT&repo=ysp.h&theme=radical&description_lines_count=3&v=11)](https://github.com/SorerBOT/ysp.h)
 [![Readme Card](https://github-readme-stats-topaz-nu-88.vercel.app/api/pin/?username=SorerBOT&repo=cunit.h&theme=radical&description_lines_count=3&v=9)](https://github.com/SorerBOT/cunit.h)
 [![Readme Card](https://github-readme-stats-topaz-nu-88.vercel.app/api/pin/?username=SorerBOT&repo=gcy.h&theme=radical&description_lines_count=3&v=7)](https://github.com/SorerBOT/gcy.h)
