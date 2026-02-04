@@ -1,4 +1,4 @@
-[![SorerBOT's GitHub stats](https://github-readme-stats-topaz-nu-88.vercel.app/api?username=SorerBOT&show_icons=true&theme=radical&count_private=true&custom_title=SorerBOT's%20Activity&count_private=true&include_all_commits=true&v=64)](https://github.com/SorerBOT)
+[![SorerBOT's GitHub stats](https://github-readme-stats-topaz-nu-88.vercel.app/api?username=SorerBOT&show_icons=true&theme=radical&count_private=true&custom_title=SorerBOT's%20Activity&count_private=true&include_all_commits=true&v=65)](https://github.com/SorerBOT)
 [![GitHub Streak](https://github-readme-streak-stats-coral-eta.vercel.app/?user=SorerBOT&theme=radical&card_width=300&hide_total_contributions=true&hide_longest_streak=true&v=2)](https://github.com/SorerBOT)
 <!---
 [![Top Langs](https://github-readme-stats-topaz-nu-88.vercel.app/api/top-langs/?username=SorerBOT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
